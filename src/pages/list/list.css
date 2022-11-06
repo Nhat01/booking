@@ -1,0 +1,32 @@
+.list-search {
+    padding: 16px;
+    border-radius: 5px;
+    background-color: #febb02;
+    margin-top: 20px;
+}
+
+.list-title {
+    font-size: 20px;
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.list-item-search {
+    display: block;
+    background-color: white;
+    border-radius: 2px;
+    padding: 8px;
+    cursor: text;
+    margin-top: 10px;
+    position: relative;
+}
+
+.list-item-search > input {
+    border: none;
+    outline: none;
+}
+
+.list-item-icon {
+    margin-right: 5px;
+}

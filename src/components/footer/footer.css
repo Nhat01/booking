@@ -1,0 +1,15 @@
+.footer-list {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 50px;
+}
+
+.footer-item {
+    margin-bottom: 10px;
+}
+
+.footer-item > a {
+    font-size: 13px;
+    text-decoration: none;
+    color: #0071c2;
+}
